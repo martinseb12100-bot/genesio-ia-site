@@ -1,8 +1,0 @@
-# Robots.txt pour GENESIO IA
-# https://genesio-ia.com
-
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://genesio-ia.com/sitemap.xml
